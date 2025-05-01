@@ -2,11 +2,11 @@
 
 <a href="https://imgbox.com/TxsFBIir" target="_blank"><img src="https://images2.imgbox.com/85/8f/TxsFBIir_o.png" alt="image host"/></a>
 
-[StrategyBoard2025](https://frcteam834.github.io/StrategyBoard2025/) is a digital strategy whiteboard for FIRST Robotics competitions.
+[StrategyBoard2025](https://guerin-robotics.github.io/StrategyBoard2025/) is a digital strategy whiteboard for FIRST Robotics competitions.
 
 ## Getting Started
 
-### https://frcteam834.github.io/StrategyBoard2025/
+### https://guerin-robotics.github.io/StrategyBoard2025/
 
 > This app is intended for tablets in landscape mode. However, it should work on most platforms
 
